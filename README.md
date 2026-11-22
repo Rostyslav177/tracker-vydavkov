@@ -8,6 +8,8 @@ Jednoduchá desktopová aplikácia na evidenciu výdavkov, vytvorená v Pythone 
 - mazanie vybraných záznamov
 - automatický súčet výdavkov
 - ukladanie údajov do súboru CSV
+- triedenie záznamov kliknutím na hlavičku stĺpca (vlastný algoritmus Bubble sort)
+- štatistiky z poľa: počet, priemer, minimum, maximum
 
 ## Použité technológie
 - Python 3
